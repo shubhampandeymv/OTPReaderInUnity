@@ -1,2 +1,2 @@
 # OTPReaderInUnity
-Generate and send opt and read it automatically on received device
+Generate and send opt . Read received OTP automatically on receiver's device . This project is on Unity3D.
